@@ -10,8 +10,8 @@
 -Docker 버전: 29.9.2 / Docker Desktop 버전: 4.97.0
 
 # 3) 수행 체크리스트
--[O] 터미널 기본 조작 및 폴더 구성
--[O] 권한 변경 실습
+-[X] 터미널 기본 조작 및 폴더 구성
+-[X] 권한 변경 실습
 -[O] Docker 설치/점검
 -[O] hello-world 실행
 -[O] Dockerfile 빌드/실행
@@ -19,6 +19,13 @@
 -[O] 바인드 마운트 반영
 -[O] 볼륨 영속성
 -[O] Git 설정 + VSCode GitHub 연동
+
+# 터미널 기본 조작 및 폴더 구성
+- 이미지: <img width="1305" height="626" alt="image" src="https://github.com/user-attachments/assets/6e2d0265-46f4-4b22-86d8-031adab968e1" /> <img width="785" height="368" alt="image" src="https://github.com/user-attachments/assets/fb0b8ed1-76bf-4882-a292-5cf87f9898ee" />
+
+# 권한 변경 실습
+- 이미지: <img width="1137" height="117" alt="image" src="https://github.com/user-attachments/assets/98a002c5-29b6-45c5-857b-e18687ff2097" />
+
 
 # 4) 수행 로그(발췌)
 - **Docker 설치 및 버전 확인**
