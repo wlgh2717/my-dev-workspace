@@ -10,8 +10,8 @@
 -Docker 버전: 29.9.2 / Docker Desktop 버전: 4.97.0
 
 # 3) 수행 체크리스트
--[X] 터미널 기본 조작 및 폴더 구성
--[X] 권한 변경 실습
+-[O] 터미널 기본 조작 및 폴더 구성
+-[O] 권한 변경 실습
 -[O] Docker 설치/점검
 -[O] hello-world 실행
 -[O] Dockerfile 빌드/실행
